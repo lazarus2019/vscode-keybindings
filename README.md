@@ -1,7 +1,7 @@
 # vscode-keybindings
 After clone settings from Settings Sync
 
-##VSCode layout
+## VSCode layout
 - Ctrl + B: Open/Close sidebar
 - Ctrl + Alt + B: Open/Close Activities sidebar
 - Ctrl + \: Split to right
@@ -18,4 +18,4 @@ After clone settings from Settings Sync
 - Ctrl + Shift + E: Open explore bar
 
 
-##VSCode editor
+## VSCode editor
