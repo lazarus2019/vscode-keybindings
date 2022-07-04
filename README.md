@@ -9,7 +9,7 @@ After clone settings from Settings Sync
 - Ctrl + 1/2/3...: Focus first/second/... split layout
 - Alt + N: Create new file
 - Alt + F: Create new folder
-- Ctrl + Alt + N: Run code (JS)
+- Ctrl + Alt + N: Run code (JS: ex:Code runner)
 - Ctrl + `: Open terminal
 - Ctrl + W: Close current layout
 - Ctrl + Tab > Tab: Choose file to opening from files opening
